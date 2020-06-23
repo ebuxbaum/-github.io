@@ -8,3 +8,8 @@ This is just a test, with no real meaning. The quick brown fox jumps over the la
 * this is item three
   * just to test a subitem
 * this is item four
+
+As it says in the *Hitchhiker's Guide to the Universe*:
+> This tasts almost unlike tea.
+> And the answer to the great question of life, the universe and everything is: 42. 
+
