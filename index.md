@@ -13,3 +13,6 @@ As it says in the *Hitchhiker's Guide to the Universe*:
 > This tasts almost unlike tea.
 > And the answer to the great question of life, the universe and everything is: 42. 
 
+<img src="https://en.wikipedia.org/wiki/Myrichthys_breviceps#/media/File:Close-up_of_sharptail_eel.jpg"/>
+
+is an image of a sharptail eel, shot by me of Dominica in 2012. 
